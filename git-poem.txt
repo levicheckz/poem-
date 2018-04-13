@@ -2,3 +2,5 @@ twas the afternoon session of Pervasive media 2
 the chairs are mainly red but the paper bin is blue
 we're learning about github, particularly repositories
 no time to be wasted on nights out or weekend stories
+
+*changes*
